@@ -1,0 +1,15 @@
+CACHE MANIFEST
+#to trigger change: Version 1.00
+#html
+./index.html
+#css
+./index.min.css
+#js
+./js.min.js
+#favicon
+./media/favicon.png
+#img
+./media/iconDelete.png
+#sound
+./media/soundCamera.ogg
+./media/soundCamera.mp3
