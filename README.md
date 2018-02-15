@@ -1,5 +1,5 @@
 # WhereDidIPark
 
-HTML5 app to help everyone remember where they park. This app works well on mobile Chrome browser and can work online or offline.
+HTML5 app to help everyone remember where they park. This app works online or offline on Chrome browser on mobile phone, tablet and laptop.
 
-@2018 Copyright Benny Unaroma
+Benny Unaroma Copyright @2018
