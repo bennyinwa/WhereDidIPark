@@ -1,15 +1,19 @@
 CACHE MANIFEST
-#to trigger change: Version 1.0.3
+#to trigger change: Version 1.0.4
 #html
 ./index.html
 #css
 ./index.min.css
 #js
+./ganal.js
 ./js.min.js
 #favicon
 ./media/favicon.png
 #img
+./media/iconDateTime.png
 ./media/iconDelete.png
+./media/iconEye.png
+./media/iconLatLong.png
 #sound
 ./media/soundCamera.ogg
 ./media/soundCamera.mp3
